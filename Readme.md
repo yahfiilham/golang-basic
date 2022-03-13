@@ -1,6 +1,9 @@
 # Belajar Golang Dasar
 
-Repository ini adalah hasil dari belajar Golang dasar
+Repository ini adalah hasil dari belajar Golang dasar.
+<br/>
+~ <br>
+Silahkan buka repository masing-masing untuk penjelasan lebih lanjut.
 
 ## Menjalankan
 
